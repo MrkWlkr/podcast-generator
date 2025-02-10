@@ -1,4 +1,4 @@
-name: "Podcast Generator"
+name: "Ation-based Podcast Generator"
 author: "Mark Walker"
 description: "Generate a podcast feed using a YAML file"
 runs:
